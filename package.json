@@ -1,7 +1,7 @@
 {
   "name": "webpack-test",
   "version": "1.0.0",
-  "description": "Testing uglifyjs plugin breaking sourcemaps",
+  "description": "Testing sourcemaps + uglifyjs",
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
